@@ -31,8 +31,3 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
-
-<h3 align="left">Top Projects:</h3>
-
-* **[Movie App](https://github.com/nathanielsalao13/movie-app)** - A cinematic discovery tool built with React.
-* **[Modern Website](https://github.com/nathanielsalao13/modern-website)** - High-performance UI showcasing modern design principles.
