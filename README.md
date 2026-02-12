@@ -1,7 +1,7 @@
 # profile
 
 <h1 align="center">Hi 👋, I'm Nathaniel Salao</h1>
-<h3 align="center">A passionate frontend developer from PH</h3>
+
 
 - 🌱 I’m currently learning **Three.js, Next.js, and advanced motion design.**
 - 💬 Ask me about **React, Vue, and making UI feel alive with GSAP.**
