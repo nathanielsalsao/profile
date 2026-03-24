@@ -46,7 +46,6 @@ Frontend Developer • Motion Designer • UI Enthusiast
 ### 💻 Frontend & Motion
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" title="React - UI Library" />
-  <img src="https://skillicons.dev/icons?i=next" title="Next.js - Fullstack React Framework" />
   <img src="https://skillicons.dev/icons?i=vue" title="Vue - Progressive Framework" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS - Utility-first styling" />
   <img src="https://skillicons.dev/icons?i=threejs" title="Three.js - 3D Web Graphics" />
