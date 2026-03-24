@@ -35,7 +35,7 @@ Frontend Developer • Motion Designer • UI Enthusiast
 
 ---
 
-### 🛠️ Core Stack (👀 hover icons)
+### 🛠️ Core Stack 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript - Core Language" />
   <img src="https://skillicons.dev/icons?i=python" title="Python - Scripting & Backend Logic" />
