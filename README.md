@@ -16,40 +16,61 @@ Frontend Developer • Motion Designer • UI Enthusiast
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/nathaniel-salao-6a557a3a8/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://stackoverflow.com/users/32355707/nathaniel-salao" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
-<a href="https://codepen.io/@nathaniel-salao" target="blank"><img src="https://skillicons.dev/icons?i=codepen" height="40"/></a>
-<a href="https://dev.to/nathsalao" target="blank"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
-<a href="https://instagram.com/nata.deccco" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://www.linkedin.com/in/nathaniel-salao-6a557a3a8/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://stackoverflow.com/users/32355707/nathaniel-salao" target="blank">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/>
+</a>
+<a href="https://codepen.io/@nathaniel-salao" target="blank">
+  <img src="https://skillicons.dev/icons?i=codepen" height="40"/>
+</a>
+<a href="https://dev.to/nathsalao" target="blank">
+  <img src="https://skillicons.dev/icons?i=devto" height="40"/>
+</a>
+<a href="https://instagram.com/nata.deccco" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
 </p>
 
 ---
 
-### 🛠️ Core Stack
+### 🛠️ Core Stack (👀 hover icons)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript - Core Language" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python - Scripting & Backend Logic" />
 </p>
 
 ---
 
 ### 💻 Frontend & Motion
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,threejs" />
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" height="40"/> <!-- GSAP fixed color -->
+  <img src="https://skillicons.dev/icons?i=react" title="React - UI Library" />
+  <img src="https://skillicons.dev/icons?i=next" title="Next.js - Fullstack React Framework" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue - Progressive Framework" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS - Utility-first styling" />
+  <img src="https://skillicons.dev/icons?i=threejs" title="Three.js - 3D Web Graphics" />
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" height="40" title="GSAP - Animation Library"/>
 </p>
 
 ---
 
 ### ⚙️ Backend & Data
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js - Backend Runtime" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js - Backend Framework" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB - NoSQL Database" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL - Relational Database" />
 </p>
 
 ---
 
-### 🧪 Tools & Tech I Use
+### 🧪 Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git - Version Control" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase - Backend Services" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma - UI/UX Design" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code - Main Development Environment" />
 </p>
 
 ---
